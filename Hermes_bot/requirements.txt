@@ -1,0 +1,4 @@
+﻿python-telegram-bot-pagination==0.0.3
+pymongo==4.10.1
+telebot==0.0.5
+pyTelegramBotAPI==4.23.0
